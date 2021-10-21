@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/beach_sunrise.JPG");
+		background-image: linear-gradient(to top, rgba(77, 80, 119, 0.70), rgba(46, 49, 65, 0.7)), url("../../images/beach_sunrise.JPG");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -253,7 +253,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-family: Raleway, Helvetica, sans-serif;
-		font-weight: 700;
+		font-weight: 900;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
@@ -3430,9 +3430,9 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
-			font-size: 2.25em;
+			font-size: 4em;
 			margin-bottom: 0.8em;
-			padding-bottom: 0.4em;
+			padding-bottom: 0.0em;
 		}
 
 		#banner p {
@@ -3457,7 +3457,7 @@ input, select, textarea {
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
-			line-height: 2;
+			line-height: 0;
 			text-transform: uppercase;
 		}
 
@@ -3466,10 +3466,11 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/beach_sunrise.JPG");
+				background-image: linear-gradient(to top, rgba(77, 80, 119, 0.70), rgba(46, 49, 65, 0.7)), url("../../images/beach_sunrise.JPG");
 				background-size: auto, cover;
-				background-position: center,
- center;
+				background-position: center,center;
+				background-repeat: no-repeat;
+
 				margin-bottom: -6.5em;
 			}
 
@@ -3560,7 +3561,7 @@ input, select, textarea {
 
 		#wrapper > header h2 {
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
-			font-size: 2em;
+			font-size: 123em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 			
@@ -3580,11 +3581,10 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/beach_sunrise.JPG");
-			background-size: auto,
- cover;
-			background-position: center,
- 0% 30%;
+			background-image: linear-gradient(to top, rgba(77, 80, 119, 0.70), rgba(46, 49, 65, 0.7)), url("../../images/beach_sunrise.JPG");
+			background-size: auto, cover;
+			background-position: center,center;
+			background-repeat: no-repeat;
 			margin-bottom: -6.5em;
 		}
 
@@ -4073,7 +4073,7 @@ input, select, textarea {
 
 		#footer {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/beach_sunrise.JPG");
+			background-image: linear-gradient(to top, rgba(77, 80, 119, 0.70), rgba(46, 49, 65, 0.7)), url("../../images/beach_sunrise.JPG");
 			background-size: auto,
  cover;
 			background-position: center,
