@@ -1,2 +1,2 @@
 # Jesse Tran
-My personal website: [jessevtran.github.io](jessevtran.github.io)
+My personal website: [jessevtran.github.io](https://jessevtran.github.io/)
