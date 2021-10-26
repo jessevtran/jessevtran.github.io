@@ -3114,10 +3114,10 @@ input, select, textarea {
 		padding: 6em 0 6em 0 ;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
-		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
-		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-attachment: fixed, fixed;
+		background-image: linear-gradient(to top, rgba(30, 32, 43, 0.364),rgba(64, 69, 94, 0.6)), url("images/skyline_footer.jpg") ;
+		background-position: center center, center center;
+		background-size: auto, cover;
 		text-align: center;
 	}
 
