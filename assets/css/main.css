@@ -2918,7 +2918,7 @@ input, select, textarea {
 		padding: 9em 0 9em 0 ;
 		background-color: #1f363f;
 		color: rgba(255, 255, 255, 0.75);
-		/* background-attachment: fixed,fixed,fixed; */
+		background-attachment: fixed,fixed;
 		background-image: linear-gradient(to top, rgba(30, 32, 43, 0.364),rgba(64, 69, 94, 0.6)), url(images/beach_overlay.png);
 		background-position: center, center;
 		background-size: auto, cover;
